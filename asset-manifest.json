@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Through-travels-frontend/static/css/main.e9f6f26c.css",
+    "main.js": "/Through-travels-frontend/static/js/main.aefe06d2.js",
+    "index.html": "/Through-travels-frontend/index.html",
+    "main.e9f6f26c.css.map": "/Through-travels-frontend/static/css/main.e9f6f26c.css.map",
+    "main.aefe06d2.js.map": "/Through-travels-frontend/static/js/main.aefe06d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f6f26c.css",
+    "static/js/main.aefe06d2.js"
+  ]
+}
