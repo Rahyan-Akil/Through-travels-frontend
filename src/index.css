@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 1rem 2rem;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar{
+    width: 0.6rem;
+    background-color: #14213d;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #4539e6;
+}
